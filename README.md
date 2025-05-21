@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thai</h1>
-<h3 align="center">As a Bachelor in Applied Finance and Applied Artificial Intelligence, I’m passionate about working as a quantitative researcher and dedicated to creating values for businesses and societies.</h3>
+<h3 align="center">As a Master of Data Science in Quantitative Finance and Bachelor in Applied Finance - Applied Artificial Intelligence, I’m passionate about working as a quantitative researcher-developer and dedicated to creating values for businesses and societies.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
